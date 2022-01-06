@@ -1,0 +1,13 @@
+{
+    "CUS_Daily_Statistics":"毎日の統計",
+    "CUS_Player_Stats":"プレイヤー統計",
+    "CUS_Avatar": "アバター",
+    "CUS_S_Battles":"シーズンバトル",
+    "CUS_S_Wins":"シーズン勝利数",
+    "CUS_S_Loses": "シーズン負け",
+    "CUS_S_MVP": "シーズンMVP",
+    "CUS_Total_Loss": "総負け",
+    "CUS_MissingPkm": "行方不明",
+    "CUS_Total_Kills": "合計キル数",
+    "CUS_Current_LoseStreak": "カレントロストリーク"
+}
