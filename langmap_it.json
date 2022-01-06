@@ -22,5 +22,9 @@
      "Role_Equip_Romm_Shop": "Negozio",
      "System_Help_Title25_001": "Livello allenatore",
      "Ranking_WinningCnt": "Record vittorie consecutive",
-     "Common_Pokemon_Text_1 CUS_MissingPkm": "Pokémon mancanti"
+     "CUS_MissingPkm": " mancanti",
+     "Ranking_PlayerScore": "Punteggio totale (lotte competitiva)",
+     "CUS_Like_Score": "Ben Fatto ottenuti",
+     "Pkm_Acquired_Date": "Ottenuto il",
+     "Trainer_Registration_Date": "Registrazione allenatore"
 }
