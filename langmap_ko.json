@@ -9,5 +9,12 @@
     "CUS_Total_Loss": "패배 수",
     "CUS_MissingPkm": "누락",
     "CUS_Total_Kills": "총 킬 수",
-    "CUS_Current_LoseStreak": "현재 연속 패배"
+    "CUS_Current_LoseStreak": "현재 연속 패배",
+    "HelpSystem_TextTitle_24_001": "랭크매치",
+    "BattleSettings_Control_Pursuit_Normal": "스탠더드",
+    "SystemHelp_MapHelpTitle_RemoatStadium_001": "퀵배틀",
+    "Common_Pokemon_Text_1 CUS_MissingPkm:": "미보유 유나이트 라이선스",
+    "Settlement_DataView_DataSelection_TotalData_001": "합계 스코어",
+    "BattleGMNpcInfo_Title_Prop": "스킬",
+    "402": "결전! 눈싸움 in 지브흐시티"
 }
